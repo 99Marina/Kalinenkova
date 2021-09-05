@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Developers Life</string>
+    <string name="Latest_tab">Latest tab</string>
+    <string name="Top_tab">Top tab</string>
+    <string name="Hot_tab">Hot tab</string>
+    <string name="button">Button</string>
+    <string name="back">Back</string>
+    <string name="next_gif">Next GIF</string>
+    <string name="gif">GIF</string>
+</resources>
